@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="./Cifra-v1.2.7.apk">
+  <a href="./Cifra-v1.2.7.apk?raw=true">
     <img src="https://img.shields.io/badge/Descargar_APK-v1.2.7_(Build_19)-d4af37?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK">
   </a>
   <img src="https://img.shields.io/badge/Desarrollo-100%25_con_IA-6c5ce7?style=for-the-badge&logo=openai&logoColor=white" alt="100% AI">
@@ -24,9 +24,11 @@
 
 Podés descargar e instalar la versión más reciente lista para usar:
 
-👉 **[Descargar Cifra-v1.2.7.apk (Clic aquí)](./Cifra-v1.2.7.apk)**
+👉 **[Descargar Cifra-v1.2.7.apk (Descarga Directa)](./Cifra-v1.2.7.apk?raw=true)**
 
 *(Compatible con teléfonos Android 7.0 o superior).*
+
+> 💡 **Tip si estás navegando en GitHub:** Si en algún momento entrás al archivo individualmente y ves la pantalla con el texto *"Sorry about that, but we can't show files that are this big right now"*, simplemente hacé clic en las letras azules que dicen **"View raw"** o en el botón con el ícono de descarga (⬇️) arriba a la derecha para iniciar la bajada directa.
 
 ---
 
@@ -67,7 +69,7 @@ Este proyecto fue construido íntegramente mediante **programación asistida por
 
 Instalar el APK en tu teléfono es muy sencillo:
 
-1. **Descargá el archivo:** Tocá el enlace de descarga de arriba o hacé clic en [**`Cifra-v1.2.7.apk`**](./Cifra-v1.2.7.apk) desde tu celular.
+1. **Descargá el archivo:** Tocá el enlace de descarga de arriba o hacé clic en [**`Cifra-v1.2.7.apk`**](./Cifra-v1.2.7.apk?raw=true) desde tu celular.
 2. **Abrí el archivo:** Una vez completada la descarga, abrí la notificación o buscalo en la carpeta *Descargas* de tu teléfono.
 3. **Permitir instalación:** Si tu navegador (Chrome, Samsung Internet, etc.) te pide permiso, seleccioná **"Permitir la instalación de aplicaciones de este origen"**.
 
