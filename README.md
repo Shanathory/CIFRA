@@ -10,23 +10,53 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shanathory/CIFRA/releases/latest/download/Cifra-v1.2.7.apk">
-    <img src="https://img.shields.io/badge/Descargar_APK-v1.2.7_(Build_19)-d4af37?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK">
+  <a href="https://github.com/Shanathory/CIFRA/releases/latest/download/Cifra-v1.3.0.apk">
+    <img src="https://img.shields.io/badge/Descargar_APK-v1.3.0_(Build_21)-d4af37?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK">
   </a>
   <img src="https://img.shields.io/badge/Desarrollo-100%25_con_IA-6c5ce7?style=for-the-badge&logo=openai&logoColor=white" alt="100% AI">
   <img src="https://img.shields.io/badge/Privacidad-100%25_Offline-00b894?style=for-the-badge&logo=shield&logoColor=white" alt="100% Offline">
-  <img src="https://img.shields.io/badge/Peso-6.5_MB-0984e3?style=for-the-badge" alt="Size">
+  <img src="https://img.shields.io/badge/Temas-6_Estilos_(Claro_y_Oscuro)-0984e3?style=for-the-badge" alt="6 Themes">
 </p>
 
 ---
 
-## 📥 Descarga Directa
+## 📥 Descarga Directa (Última Actualización `v1.3.0`)
 
 Podés descargar e instalar la versión más reciente lista para usar en tu celular Android:
 
-👉 **[Descargar Cifra-v1.2.7.apk (Clic aquí para Descarga Directa)](https://github.com/Shanathory/CIFRA/releases/latest/download/Cifra-v1.2.7.apk)**
+👉 **[Descargar Cifra-v1.3.0.apk (Clic aquí para Descarga Directa)](https://github.com/Shanathory/CIFRA/releases/latest/download/Cifra-v1.3.0.apk)**
 
 *(Compatible con teléfonos Android 7.0 o superior).*
+
+---
+
+## 🚀 Novedades de la Actualización `v1.3.0` (01 de Noviembre de 2026)
+
+* **🎨 6 Temas Visuales (Claro y Oscuro) con Indicador de Consumo:**
+  * **📓 Papel & Tinta (Claro) & Grafito Mate (Oscuro):** Inspirados en Notion; 100% opacos, sin neón ni desenfoques, con relieve 3D táctil (**🌱 Consumo Muy Bajo**).
+  * **☕ Café & Cristal (Claro Luminoso) & Café Espresso (Oscuro):** Cristal cálido mejorado con mayor luminosidad y legibilidad (**⚡ Consumo Medio**).
+  * **🌙 Midnight Glow (Oscuro) & ☀️ Midnight Day (Claro):** Cristal líquido con orbes aurora animados (**🔥 Consumo Alto**).
+  * Selector interactivo de tema al iniciar la aplicación y en Configuración.
+* **🟣 Identificación Visual Completa para "Dinero Dado":**
+  * 4ta separación dedicada en *Prioridad de pagos del mes* con su propio sub-desglose interno (*Alta*, *Media* y *Baja*).
+  * Tarjetas de cuotas y gastos cubiertos con dinero dado muestran **borde e indicador lateral morado** + etiqueta morada unificada.
+* **📐 Cuotas y Fijos más Compacto y Plegable:**
+  * Resumen superior en **grilla 2×2** (*1° Total Compromisos, 2° Pagado, 3° Sin Reservar, 4° Reservada*).
+  * Los paneles de **Sin Reservar**, **Plata Reservada** y **Pagados** ahora se pueden **contraer o desplegar** con un toque.
+* **🛒 Rediseño de Gastos Diarios:**
+  * Filtros rápidos inferiores convertidos en **botones redondeados tipo píldora**.
+  * Encabezado de *Movimientos del Mes* distribuido en 3 bloques limpios y tarjetas individuales redondeadas con barra de color lateral.
+* **➕ Botón `+` Inteligente y Contextual por Ventana:**
+  * En **Inicio** despliega las 6 opciones generales de registro, mientras que en **Cuotas y Fijos**, **Gastos Diarios**, **Ingresos**, **Ahorros**, **Francos**, **Compras** o **Viajes** ofrece directamente las opciones de registro específicas de esa ventana (con acceso en 1 toque a todas las opciones).
+* **📈 Trío de Gráficos Ejecutivos (Estilo Video Presentación):**
+  * Tarjetas gráficas interactivas de **Ingresos** (arco de herradura esmeralda), **Gastos** (anillo bicolor naranja y coral) y **Ahorrado** (curva suave de área con pico luminoso) integradas en *Inicio* y *Resumen Mensual*.
+* **📊 Nuevo Resumen Mensual con Gráficas Modernas:**
+  * **Gráfico de Anillo (Donut SVG)** con indicador central de saldo disponible, barras de proporción modernas, termómetro de salud financiera y tarjetas comparativas frente al mes anterior.
+* **⚡ Rendimiento, Navegación y Francos:**
+  * Apertura instantánea y sin tirones en **Arqueo de Saldo (Cuadrar)**.
+  * El 5to botón de la barra inferior vuelve a convertirse en **"Más"** al volver a tocarlo por reflejo desde secciones secundarias (*Ajustes*, *Francos*, etc.).
+  * Corrección definitiva al registrar **Feriados / Guardias** en Francos y deduplicación automática de registros previos.
+  * Nuevo apartado **"Novedades y Actualizaciones"** dentro de *Configuración* para leer el historial de versiones en cualquier momento.
 
 ---
 
@@ -39,27 +69,25 @@ Nació con una finalidad mucho más genuina, simple y cercana: **ayudarme a mane
 Quería una herramienta que se adaptara a mi realidad cotidiana y no al revés:
 * **Saber mi dinero disponible real sin vueltas:** Sin pantallas recargadas de publicidad, sin suscripciones mensuales y sin métricas confusas.
 * **Manejar la economía del día a día:** Soporte tanto para **Pesos Argentinos (ARS)** como para **Cripto / Dólar Cripto (USDT)**.
-* **Separar plata propia de dinero ajeno:** Si un familiar o amigo te transfiere dinero exclusivamente para pagar una factura o servicio a su nombre (*dinero pasamanos*), poder registrarlo sin que te distorsione tu balance ni parezca que gastaste tu propio sueldo.
+* **Separar plata propia de dinero ajeno:** Si un familiar o amigo te transfiere dinero exclusivamente para pagar una factura o servicio a su nombre (*dinero dado / pasamanos*), poder registrarlo con sus propias prioridades sin que distorsione tu balance ni parezca que gastaste tu propio sueldo.
 * **Poder cuadrar el saldo en 2 segundos (Arqueo de Saldo):** Si el número de la app no coincide con la plata que tenés en la mano o en Mercado Pago, tocar un botón, poner lo que tenés y que la app ajuste la diferencia automáticamente.
 * **Controlar mis descansos laborales (Francos):** Para quienes trabajamos con turnos, guardias o francos rotativos, poder anotar qué días descansamos, cuáles nos quedan y qué días compensatorios tenemos a favor por haber trabajado feriados o fines de semana.
 * **Privacidad total:** Que mis datos financieros no viajen a ningún servidor de internet ni se vendan a empresas crediticias. Todo vive en el almacenamiento interno de mi celular.
 
-Hoy CIFRA es la herramienta que utilizo todos los días para tener tranquilidad y claridad con mi dinero, y la comparto libremente en este repositorio para cualquier persona a quien le pueda resultar útil.
-
 ---
 
-## 🤖 100% Desarrollada con Inteligencia Artificial
+## 🤖 100% Desarrollada con Inteligencia Artificial — Cronograma y Separación por Días
 
-Este proyecto fue construido íntegramente mediante **programación asistida por Inteligencia Artificial**:
+Este proyecto fue construido íntegramente mediante **programación asistida por Inteligencia Artificial** (*Google DeepMind Antigravity*), a lo largo de **29 días calendario** (del **04 de octubre al 01 de noviembre de 2026**), distribuidos en **4 etapas de trabajo (6 días efectivos de desarrollo)** separadas por días de uso real en el celular para detectar qué mejorar:
 
-* **Desarrollo en pares con IA:** Todo el código frontend, la base de datos local en IndexedDB, la integración con Capacitor para Android y las interfaces táctiles fueron programadas colaborando mano a mano con modelos LLM y agentes de IA (*Google DeepMind Antigravity*).
-* **Tiempo total de desarrollo:** Menos de **3 semanas** de trabajo intensivo (octubre de 2026).
-* **Cantidad de iteraciones / intentos:** Más de **19 compilaciones completas (Build 19)** y decenas de rondas de prueba y refinamiento:
-  * Diseño ergonómico de la barra inferior con cuna cóncava concéntrica dinámica (inspirada en Pinterest / Nucleo UI).
-  * Eliminación de saturación de emojis en formularios para lograr un aspecto limpio y sobrio.
-  * Botones con semáforo de color de fondo activo (Verde Pagado, Ámbar Reservado, Rojo Sin Reservar, Azul Compensatorio).
-  * Corrección de gestos táctiles para evitar que la pantalla de fondo se mueva al scrollear formularios.
-  * Selector de fechas táctil con semanas que inician estrictamente en Lunes.
+| Etapa | Fecha(s) | Separación entre jornadas | Qué se construyó y perfeccionó |
+|---|---|---|---|
+| **Jornada 1** | **04/10/2026** *(1 día)* | *Inicio del proyecto* | Creación de la base lógica (`FinanzasTool`), motor local en IndexedDB, soporte bimoneda ARS/USDT, cuotas, gastos, ingresos y ahorros (~8 hs). |
+| **Jornada 2** | **16/10/2026 y 17/10/2026** *(2 días)* | *Tras 11 días de pausa* | Migración 100% a aplicación móvil nativa Android con Capacitor 8 (`FinanzasMobile`), barra inferior curva concéntrica, Arqueo de Saldo, Control de Francos, selector de fechas Lunes-Domingo y compilación de Builds 1 a 18 (`v1.0.0` a `v1.2.6`). |
+| **Jornada 3** | **21/10/2026 al 23/10/2026** *(2 días)* | *Tras 3 días de prueba real* | Pulido visual en `v1.2.7` (Build 19), preparación del repositorio público y lanzamiento en GitHub Releases para descarga directa. |
+| **Jornada 4** | **01/11/2026** *(1 día)* | *Tras 8 días de uso diario* | Versiones `v1.2.8` y `v1.3.0` (Builds 20 y 21): 4ta separación de *Dinero Dado* con prioridades e identificación morada, grilla 2×2, paneles colapsables, rediseño de Gastos y Resumen Mensual con gráfico de anillo, optimización de fluidez en *Cuadrar*, 6 temas (claro/oscuro) con indicador de consumo y centro de Novedades. |
+
+* **Resumen de tiempos:** **6 días efectivos de desarrollo** repartidos en **29 días calendario** (con pausas de 11, 3 y 8 días de uso cotidiano real entre sesiones) y **21 compilaciones completas (Build 21)**.
 
 ---
 
@@ -67,7 +95,7 @@ Este proyecto fue construido íntegramente mediante **programación asistida por
 
 Instalar el APK en tu teléfono es muy sencillo:
 
-1. **Descargá el archivo:** Tocá el enlace de descarga de arriba o hacé clic en [**`Cifra-v1.2.7.apk`**](https://github.com/Shanathory/CIFRA/releases/latest/download/Cifra-v1.2.7.apk) desde tu celular.
+1. **Descargá el archivo:** Tocá el enlace de descarga de arriba o hacé clic en [**`Cifra-v1.3.0.apk`**](https://github.com/Shanathory/CIFRA/releases/latest/download/Cifra-v1.3.0.apk) desde tu celular.
 2. **Abrí el archivo:** Una vez completada la descarga, abrí la notificación o buscalo en la carpeta *Descargas* de tu teléfono.
 3. **Permitir instalación:** Si tu navegador (Chrome, Samsung Internet, etc.) te pide permiso, seleccioná **"Permitir la instalación de aplicaciones de este origen"**.
 
@@ -80,49 +108,25 @@ Al tratarse de una aplicación personal desarrollada de forma independiente y di
 
 ---
 
-## 🔍 ¿Qué podés hacer con CIFRA?
-
-### 💰 Dinero Disponible Real
-Una cifra grande, clara y protagonista en la pantalla de inicio. Te muestra exactamente con cuánto dinero contás hoy, sin mezclarlo con plata prestada ni compromisos ya apartados.
-
-### ⚖️ Arqueo de Saldo en 1 Toque
-Ingresá el saldo real que tenés en tu cuenta (ej. Mercado Pago o efectivo). Si hay diferencia, CIFRA crea automáticamente un movimiento compensatorio con medio de pago y motivo, dejando tu cuenta perfectamente cuadrada.
-
-### 🏖️ Control de Francos (Descansos Laborales)
-* **Francos disponibles:** Sabé cuántos días de descanso te quedan en el mes.
-* **Francos gozados:** Registro de los días que ya te tomaste con fecha completa en español (*Viernes 17 de Octubre*).
-* **Francos a favor:** Sumá los días que trabajaste en feriados o guardias para no olvidarte de cobrarlos o tomártelos después.
-* **Barra de progreso mensual:** Mirá de un vistazo cuántos descansos disfrutaste respecto a los asignados del período.
-
-### 📅 Cuotas y Pagos del Mes (Compromisos Fijos)
-* Clasificación por prioridad: 🔴 **Alta**, 🟡 **Media** y 🔵 **Baja**.
-* **Reserva parcial:** Apartá una parte del dinero antes de pagar (ej. reservar $20.000 de una cuota de $50.000) para saber con qué contás realmente.
-* Proyección trimestral para servicios o gastos indefinidos.
-
-### 🛒 Gastos Diarios e Ingresos
-* Botón flotante `+` siempre a mano para registrar cualquier gasto o compra en pocos segundos.
-* Diferenciación de origen: *Propio*, *Me lo dieron* o *Plata guardada*.
-* Registro de horas trabajadas con cálculo automático según cotización USDT/ARS.
-
-### 🎯 Ahorros, Compras Deseadas y Viajes
-* Fondos separados para Emergencias, Compras y Viajes.
-* Wishlist con barra de avance según los aportes que vas haciendo hacia tu meta.
-
-### 🔒 Copias de Seguridad (Backup)
-Tus datos son tuyos. En cualquier momento podés exportar un archivo JSON con toda tu información para guardarlo en Google Drive, enviártelo por WhatsApp o transferirlo a otro teléfono.
-
----
-
 ## ⚙️ Ficha Técnica
 
 | Característica | Detalle |
 |---|---|
-| **Versión** | `v1.2.7` (Build 19) |
+| **Versión** | `v1.3.0` (Build 21) |
 | **Plataforma** | Android nativo (Capacitor 8) y Web/PWA |
-| **Peso** | ~6.57 MB |
-| **Privacidad** | 100% Local (IndexedDB) · Cero rastreadores · Sin nube |
+| **Temas incluidos** | 6 temas (Papel & Tinta / Grafito Mate, Café Claro / Espresso, Midnight Glow / Day) |
+| **Peso** | ~6.6 MB |
+| **Privacidad** | 100% Local (IndexedDB) · Cero rastreadores · [Política de Privacidad](PRIVACY_POLICY.md) |
 | **Idioma** | Español |
 | **Licencia** | MIT (Uso libre y gratuito) |
+
+---
+
+## 🔒 Política de Privacidad (Google Play)
+
+CIFRA respeta al 100% tu privacidad:
+* Podés leer nuestra [Política de Privacidad completa aquí (PRIVACY_POLICY.md)](PRIVACY_POLICY.md).
+* Versión web lista para publicar en Google Play Console: [privacy-policy.html](privacy-policy.html).
 
 ---
 
